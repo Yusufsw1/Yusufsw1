@@ -43,7 +43,7 @@ I am a results-driven **Fullstack Developer** focused on building scalable web a
 ## 📫 Let's Connect!
 
 - **LinkedIn:** [linkedin.com/in/yusufsatriow](https://www.linkedin.com/in/yusufsatriow/)
-- **Email:** [Yusufsw390@gmail.com]()
+- **Email:** [Yusufsw390@gmail.com](mailto:yusufsw390@gmail.com)
 - **Portfolio:** [https://yusuf-portfolio-eight.vercel.app](https://yusuf-portfolio-eight.vercel.app/)
 
 ---
