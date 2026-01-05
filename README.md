@@ -39,12 +39,9 @@ I am a results-driven **Fullstack Developer** focused on building scalable web a
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Yusufsw1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Yusuf's Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufsw1&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
+### 📊 My Contributions
+![Total Commits](https://img.shields.io/github/commit-activity/m/Yusufsw1?style=for-the-badge&color=8E75C2)
+![Repo Count](https://img.shields.io/github/repo-size/Yusufsw1/Laporin-Aja-?style=for-the-badge&color=3ECF8E)
 
 ---
 
