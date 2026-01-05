@@ -37,14 +37,7 @@ I am a results-driven **Fullstack Developer** focused on building scalable web a
 * Developed a decoupled e-commerce ecosystem for thrifting products with a dedicated [Backend API](https://github.com/Yusufsw1/BackendEcommerc).
 * Managed complex state for inventory tracking and secure transaction workflows.
 
----
 
-## 📊 GitHub Stats & Activity
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Yusufsw1&show_icons=true&theme=tokyonight" alt="Yusuf's Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusufsw1&theme=tokyonight" alt="Yusuf's Streak" height="180" />
-</p>
 ---
 
 ## 📫 Let's Connect!
