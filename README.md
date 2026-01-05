@@ -33,7 +33,7 @@ I am a results-driven **Fullstack Developer** focused on building scalable web a
 * Optimized PostgreSQL relational schemas for high-performance Many-to-Many data handling.
 
 ### 🛒 [56ThrifShop Ecosystem](https://github.com/Yusufsw1/56ThrifShop)
-**React Vite | Node.js | Express | Supabase**
+**Next.js 14 | Node.js | Express | Supabase**
 * Developed a decoupled e-commerce ecosystem for thrifting products with a dedicated [Backend API](https://github.com/Yusufsw1/BackendEcommerc).
 * Managed complex state for inventory tracking and secure transaction workflows.
 
