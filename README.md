@@ -8,7 +8,7 @@ I am a results-driven **Fullstack Developer** focused on building scalable web a
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufsatriow)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufsw390@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://yusuf-portfolio-eight.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://yusuf-portfolio-eight.vercel.app/)
 
 
 ---
