@@ -8,7 +8,7 @@ I am a results-driven **Fullstack Developer** focused on building scalable web a
 ## 🛠️ Technical Toolbox
 
 - **Frontend:** Next.js 14, React (Vite), TypeScript, Tailwind CSS, Redux, Chakra UI.
-- **Backend:** Node.js, Express.js, Socket.io (Real-time).
+- **Backend:** Node.js, Express.js, Golang, Socket.io (Real-time).
 - **AI Integration:** Google Gemini AI API (Intelligent OCR & Data Parsing).
 - **Database & Cloud:** PostgreSQL, Supabase, Firebase, MySQL, Cloudinary.
 - **Tools:** Git, Postman, Prisma ORM, RESTful APIs.
