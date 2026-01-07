@@ -39,11 +39,7 @@ I am a results-driven **Fullstack Developer** focused on building scalable web a
 
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yusufsw1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yusufsw1&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufsw1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
----
+
 
 ## 📫 Let's Connect!
 
